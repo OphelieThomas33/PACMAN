@@ -37,6 +37,13 @@ body, html{
     background-color: gray;
 }
 
+#game div.fantome{
+    background-color: red;
+    border-radius: 35%;
+    border: black 2px solid;
+    box-sizing: border-box;
+}
+
 #game div.point-puissance{
     background-color: #00ff66;
     border-radius: 50%;
